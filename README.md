@@ -12,3 +12,4 @@
 ## 索引目录
 
 * 2020/09/20  [[bot 测试] mjolnir-bot 功能测试](https://github.com/cloudnativeto/qa/blob/master/archive/73a3992808e6cd141408694950036ce51849ba8d.md)   
+* 2020/11/08  [welcome 模版测试](https://github.com/cloudnativeto/qa/blob/master/archive/7e6805270690e79a8e594fcc3a62051a3002949f.md)   
